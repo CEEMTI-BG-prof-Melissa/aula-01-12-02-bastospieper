@@ -19,6 +19,14 @@
 
             echo "<br><br>A soma de $n1 com $n2 é igual a $soma.";
 
+            echo "<br><br> A subtração dos números $n1 e $n2 é igual a: " .($n1-$n2) .".";
+
+            echo "<br><br> A multiplicação dos números $n1 e $n2 é igual a: " .($n1*$n2) .".";
+
+            echo "<br><br> A divisão Real dos números $n1 e $n2 é igual a: " .($n1/$n2) .".";
+
+            echo "<br><br> O resto da Divisão Real dos números $n1 e $n2 é igual a: " .($n1%$n2) .".";
+
         ?>
 
     </body>
